@@ -48,7 +48,7 @@
                     Height="20"
                     Margin="5"
                     FontFamily="Arial"
-                    IsReadOnly="Fa"
+                    IsReadOnly="False"
                     Loaded="ComboBoxLoad_Loaded"
 	                SelectionChanged="ComboBoxLoad_SelectionChanged" 
                     FontSize="12"
